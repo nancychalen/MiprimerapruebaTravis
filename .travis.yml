@@ -3,7 +3,7 @@ language: php
 dist: xenial
 
 php: 
-- 7.0
+- 5.5
 
 script:
 - phpunit test.php
