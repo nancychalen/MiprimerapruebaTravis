@@ -1,9 +1,10 @@
 language: php
+
 dist: xenial
+
 php: 
- - 7.0
+- 7.0
+
 script:
-  - phpunit test.php
-notifications:
-  email:
-    - chalen_na201@outlook.com
+- phpunit test.php
+
