@@ -8,7 +8,7 @@ class minuevotravis extends PHPUnit_Framework_TestCase
 
 function suma($a,$b) {
 
-  return "hola";
+  return $a + $b;
 
   }
 }
