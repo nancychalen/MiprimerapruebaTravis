@@ -1,15 +1,8 @@
-<?php 
-
-
-class minuevotravis extends PHPUnit_Framework_TestCase
+<?php
+class index
 {
-
-
-
-function suma($a,$b) {
-
-  return $a + $b;
-
-  }
+public function add($a,$b)
+{
+return $a + $b;
 }
-<?
+}
